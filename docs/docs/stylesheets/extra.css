@@ -1,0 +1,15 @@
+[data-md-color-primary="pink"] {
+  --md-primary-fg-color: #fe0088;
+  --md-primary-fg-color--light: #fd3ea4;
+  --md-primary-fg-color--dark: #c3185d;
+  --md-primary-bg-color: #f1f1f1;
+}
+
+.md-header,
+.md-tabs {
+  background: #28133e;
+}
+
+.md-header__title {
+  visibility: hidden;
+}
